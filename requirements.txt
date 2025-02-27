@@ -1,0 +1,13 @@
+# Speech recognition and text-to-speech libraries
+SpeechRecognition
+gTTS
+pyttsx3
+
+# Audio playback
+playsound
+
+# Basic web interface
+streamlit
+
+# AI framework for smart command interpretation (optional)
+langchain
